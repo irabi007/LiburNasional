@@ -1,5 +1,5 @@
 {
- "libur":   {
+ "libur":   [{
   "1":
     {
         "holiday_date": "2023-12-25",
@@ -84,6 +84,6 @@
         "holiday_date": "2023-01-1",
         "holiday_name": "Tahun Baru Masehi",
         "is_national_holiday": true
-    }
- }
+    }}
+ ]
 }
