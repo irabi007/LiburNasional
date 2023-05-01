@@ -1,89 +1,88 @@
 {
- "libur":   [{
-  "1":
+ "libur":   [
     {
         "holiday_date": "2023-12-25",
         "holiday_name": "Hari Raya Natal",
         "is_national_holiday": true
     },
-   "2":
+
     {
         "holiday_date": "2023-09-28",
         "holiday_name": "Maulid Nabi Muhammad SAW",
         "is_national_holiday": true
     },
-  "3":
+
     {
         "holiday_date": "2023-08-17",
         "holiday_name": "Hari Proklamasi Kemerdekaan RI",
         "is_national_holiday": true
     },
-  "4":  
+
   {
         "holiday_date": "2023-07-19",
         "holiday_name": "Tahun Baru Islam 1445 Hijriyah",
         "is_national_holiday": true
     },
-  "5":  
+
   {
         "holiday_date": "2023-06-29",
         "holiday_name": "Hari Raya Idul Adha 1444 Hijriyah",
         "is_national_holiday": true
     },
-    "6":{
+ {
         "holiday_date": "2023-06-4",
         "holiday_name": "Hari Raya Waisak 2567",
         "is_national_holiday": true
     },
-    "7":{
+    {
         "holiday_date": "2023-06-1",
         "holiday_name": "Hari Lahirnya Pancasila",
         "is_national_holiday": true
     },
-    "8":{
+   {
         "holiday_date": "2023-05-18",
         "holiday_name": "Kenaikan Isa Al Masih",
         "is_national_holiday": true
     },
-    "9":{
+   {
         "holiday_date": "2023-05-1",
         "holiday_name": "Hari Buruh Internasional",
         "is_national_holiday": true
     },
-    "10":{
+    {
         "holiday_date": "2023-04-23",
         "holiday_name": "Hari Raya Idul Fitri 1444 Hijriyah",
         "is_national_holiday": true
-    },"11":
+    },
     {
         "holiday_date": "2023-04-22",
         "holiday_name": "Hari Raya Idul Fitri 1444 Hijriyah",
         "is_national_holiday": true
-    },"12":
+    },
     {
         "holiday_date": "2023-04-7",
         "holiday_name": "Wafat Isa Al Masih",
         "is_national_holiday": true
-    },"13":
+    },
     {
         "holiday_date": "2023-03-22",
         "holiday_name": "Hari Raya Nyepi",
         "is_national_holiday": true
-    },"14":
+    },
     {
         "holiday_date": "2023-02-18",
         "holiday_name": "Isra Mikraj Nabi Muhammad SAW",
         "is_national_holiday": true
-    },"15":
+    },
     {
         "holiday_date": "2023-01-22",
         "holiday_name": "Tahun Baru Imlek 2574 Kongzili",
         "is_national_holiday": true
-    },"16":
+    },
     {
         "holiday_date": "2023-01-1",
         "holiday_name": "Tahun Baru Masehi",
         "is_national_holiday": true
-    }}
+    }
  ]
 }
