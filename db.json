@@ -11,77 +11,9 @@
         "holiday_name": "Maulid Nabi Muhammad SAW",
         "is_national_holiday": true
     },
-
     {
         "holiday_date": "2023-08-17",
         "holiday_name": "Hari Proklamasi Kemerdekaan RI",
-        "is_national_holiday": true
-    },
-
-  {
-        "holiday_date": "2023-07-19",
-        "holiday_name": "Tahun Baru Islam 1445 Hijriyah",
-        "is_national_holiday": true
-    },
-
-  {
-        "holiday_date": "2023-06-29",
-        "holiday_name": "Hari Raya Idul Adha 1444 Hijriyah",
-        "is_national_holiday": true
-    },
- {
-        "holiday_date": "2023-06-4",
-        "holiday_name": "Hari Raya Waisak 2567",
-        "is_national_holiday": true
-    },
-    {
-        "holiday_date": "2023-06-1",
-        "holiday_name": "Hari Lahirnya Pancasila",
-        "is_national_holiday": true
-    },
-   {
-        "holiday_date": "2023-05-18",
-        "holiday_name": "Kenaikan Isa Al Masih",
-        "is_national_holiday": true
-    },
-   {
-        "holiday_date": "2023-05-1",
-        "holiday_name": "Hari Buruh Internasional",
-        "is_national_holiday": true
-    },
-    {
-        "holiday_date": "2023-04-23",
-        "holiday_name": "Hari Raya Idul Fitri 1444 Hijriyah",
-        "is_national_holiday": true
-    },
-    {
-        "holiday_date": "2023-04-22",
-        "holiday_name": "Hari Raya Idul Fitri 1444 Hijriyah",
-        "is_national_holiday": true
-    },
-    {
-        "holiday_date": "2023-04-7",
-        "holiday_name": "Wafat Isa Al Masih",
-        "is_national_holiday": true
-    },
-    {
-        "holiday_date": "2023-03-22",
-        "holiday_name": "Hari Raya Nyepi",
-        "is_national_holiday": true
-    },
-    {
-        "holiday_date": "2023-02-18",
-        "holiday_name": "Isra Mikraj Nabi Muhammad SAW",
-        "is_national_holiday": true
-    },
-    {
-        "holiday_date": "2023-01-22",
-        "holiday_name": "Tahun Baru Imlek 2574 Kongzili",
-        "is_national_holiday": true
-    },
-    {
-        "holiday_date": "2023-01-1",
-        "holiday_name": "Tahun Baru Masehi",
         "is_national_holiday": true
     }
  ]
